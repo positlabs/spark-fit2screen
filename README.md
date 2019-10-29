@@ -1,6 +1,4 @@
-## spark-fit2screen
-
-Spark AR patch for fitting a plane to the screen.
+## Spark AR patch for fitting a plane to the screen
 
 [Download fit2screen](https://raw.githubusercontent.com/positlabs/spark-fit2screen/master/patches/Fit2Screen%20(drag%20device%20to%20patch%20editor).arp)
 
@@ -13,7 +11,16 @@ Units of measurement are
 - in: 3.93701
 - ft: 0.32808
 
-### Donations
+
+## Resources
+
+Learn more stuff by watching my [Spark AR Tutorials on YouTube!](https://www.youtube.com/playlist?list=PLAZp2Vi7Gfspzyla4RrCO6BzVzYW7Lnb-)
+
+Follow me on Instagram [@positlabs](https://instagram.com/positlabs) and try out my effects!
+
+Browse my open-source [Spark AR repositories on Github!](https://github.com/search?q=user%3Apositlabs+spark)
+
+## Donations
 
 If you used this in client projects, or simply enjoyed making effects with my open-source projects, please consider a donation or sponsorship. One-time donations can be made with PayPal. Subscriptions can be through PayPal or Github Sponsors (click the heart sponsor button at the top of the page).
 
